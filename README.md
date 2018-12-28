@@ -2,6 +2,7 @@
 Package to automate EDA
 
 # Installing brief using devtools
-```{R}
+
+```R
 devtools::install_github('ashok-narapasettybrief/brief')
 ```
